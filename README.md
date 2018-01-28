@@ -35,7 +35,8 @@ git checkout xx //就可以选择分支 然后git pull 拉取最新的代码
 ![aa](http://oydcisax6.bkt.clouddn.com/20180129011742_8wVExC_Screenshot.jpeg)
 ## 分支
 ![aa](http://oydcisax6.bkt.clouddn.com/20180129011842_tSp22s_Screenshot.jpeg)
-
+## 大全
+![aa](http://oydcisax6.bkt.clouddn.com/20180129013907_lFtDFP_gitflow.jpeg)
 
 
 
